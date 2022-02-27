@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: sdfg
-email: sdfg
-author: sdfg
+title: Dr. Jae-Min Kim's research blog
+email: jmkim52@skku.edu
+author: Jae-Min Kim, Ph.D.
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
