@@ -156,8 +156,14 @@ yat:
 #Page default value
 defaults:
   home:
-    heading: "Dr. Jae-Min Kim's researches blog"
-    subheading: "Your awesome subheading"
+    heading: "Advanced Photonic Materials & Devices Lab (APMDL)"
+    subheading: "Researches are focused on \n
+- Design of photonic organic semiconductor based on quantum mechanics\n
+- Electrical/Optical characterization of organic semiconductors and organic light-emitting diodes\n
+- Charge transfer mechanism of electrical doping in organic semiconductors\n
+- Degradation mechanisms of organic light-emitting diodes\n
+- Exciton dynamics of phosphorescent, thermally activated delayed fluorescent, sensitized organic light-emitting diodes\n
+- Deep neural network of machine learning for efficient materials / device architecture design"
     banner: "Your image url"
 
 # Banner default settings
