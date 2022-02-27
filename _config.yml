@@ -156,13 +156,13 @@ yat:
 #Page default value
 defaults:
   home:
-    heading: "Advanced Photonic <br>Materials & Devices Lab (APMDL)"
-    subheading: "Researches are focused on <br>
-- Design of photonic organic semiconductor based on quantum mechanics<br>
-- Electrical/Optical characterization of organic semiconductors and organic light-emitting diodes<br>
-- Charge transfer mechanism of electrical doping in organic semiconductors<br>
-- Degradation mechanisms of organic light-emitting diodes<br>
-- Exciton dynamics of phosphorescent, thermally activated delayed fluorescent, sensitized organic light-emitting diodes<br>
+    heading: "Advanced Photonic <br/>Materials & Devices Lab (APMDL)"
+    subheading: "Researches are focused on <br/>
+- Design of photonic organic semiconductor based on quantum mechanics<br/>
+- Electrical/Optical characterization of organic semiconductors and organic light-emitting diodes<br/>
+- Charge transfer mechanism of electrical doping in organic semiconductors<br/>
+- Degradation mechanisms of organic light-emitting diodes<br/>
+- Exciton dynamics of phosphorescent, thermally activated delayed fluorescent, sensitized organic light-emitting diodes<br/>
 - Deep neural network of machine learning for efficient materials / device architecture design"
     banner: "Your image url"
 
