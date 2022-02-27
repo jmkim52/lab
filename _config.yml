@@ -156,7 +156,7 @@ yat:
 #Page default value
 defaults:
   home:
-    heading: "Advanced Photonic Materials & Devices Lab (APMDL)"
+    heading: "Advanced Photonic <br>Materials & Devices Lab (APMDL)"
     subheading: "Researches are focused on <br>
 - Design of photonic organic semiconductor based on quantum mechanics<br>
 - Electrical/Optical characterization of organic semiconductors and organic light-emitting diodes<br>
