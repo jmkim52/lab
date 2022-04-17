@@ -1,76 +1,21 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-categories: markdown
-tags: [test]
+title: Paper is published!
+subtitle: 
+categories: Paper Publication
+tags: [paper]
 ---
 
-You can write regular [markdown](https://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+The research work about novel room temperature phosphorescent materials was published in ACS Applied Energy Materials. 
 
-**Here is some bold text**
+Congraturation!
 
-## Here is a secondary heading
+## Chromophore and Spin–Orbit Coupling Engineering for Highly Efficient Purely Organic Phosphorescent Emitters
 
-Here's a useless table:
+Cho Long Kim, Jae-Min Kim, HoJin Jang, Dong Ryun Lee, and Jun Yeob Lee*
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+**Abstract**
 
+In this work, a design methodology to develop purely organic phosphorescent (POP) emitters was studied to improve the photoluminescence quantum yield (PLQY) and external quantum efficiency (EQE) of organic light-emitting diodes (OLEDs). The molecular design was directed to have a strong spin–orbit coupling through a phenoselenazine core for triggering phosphorescence and an expanded chromophore using an aromatic extended structure to enhance radiative transition probability. As a result, a 3-(9-phenyl-9*H*-carbazol-3-yl)-10-(*p*-tolyl)-10*H*-phenoselenazine (PSe3Cz) emitter achieved high PLQY of 50.2% and EQE of 13.2% in POPLEDs. The EQE of this work is one of the highest EQE values reported in heavy metal-free phosphorescent OLEDs.
 
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+[Chromophore and Spin–Orbit Coupling Engineering for Highly Efficient Purely Organic Phosphorescent Emitters | ACS Applied Energy Materials](https://doi.org/10.1021/acsaem.2c00356)
