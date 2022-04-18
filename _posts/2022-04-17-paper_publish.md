@@ -12,7 +12,9 @@ Congraturation!
 
 ## Chromophore and Spin–Orbit Coupling Engineering for Highly Efficient Purely Organic Phosphorescent Emitters
 
-Cho Long Kim, Jae-Min Kim, HoJin Jang, Dong Ryun Lee, and Jun Yeob Lee*
+Cho Long Kim+, Jae-Min Kim+, HoJin Jang+, Dong Ryun Lee, and Jun Yeob Lee*
+
++Equallly contributed
 
 **Abstract**
 
