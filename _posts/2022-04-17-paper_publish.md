@@ -18,7 +18,7 @@ Cho Long Kim+, Jae-Min Kim+, HoJin Jang+, Dong Ryun Lee, and Jun Yeob Lee*
 
 <img title="" src="https://user-images.githubusercontent.com/100506848/163739600-f5d4c72e-e9aa-4993-aa87-97c2b7548d98.jpeg" alt="" width="352">
 
-![](_posts/2022-04-17.jpeg)
+![](assets/2022-04-17.jpeg)
 
 **Abstract**
 
