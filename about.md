@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Test
+title: About
 ---
 
 <h2>About</h2>
