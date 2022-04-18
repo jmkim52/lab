@@ -18,6 +18,8 @@ Cho Long Kim+, Jae-Min Kim+, HoJin Jang+, Dong Ryun Lee, and Jun Yeob Lee*
 
 <img title="" src="https://user-images.githubusercontent.com/100506848/163739600-f5d4c72e-e9aa-4993-aa87-97c2b7548d98.jpeg" alt="" width="352">
 
+![](\lab\_posts\2022-04-17.jpeg)
+
 **Abstract**
 
 In this work, a design methodology to develop purely organic phosphorescent (POP) emitters was studied to improve the photoluminescence quantum yield (PLQY) and external quantum efficiency (EQE) of organic light-emitting diodes (OLEDs). The molecular design was directed to have a strong spin–orbit coupling through a phenoselenazine core for triggering phosphorescence and an expanded chromophore using an aromatic extended structure to enhance radiative transition probability. As a result, a 3-(9-phenyl-9*H*-carbazol-3-yl)-10-(*p*-tolyl)-10*H*-phenoselenazine (PSe3Cz) emitter achieved high PLQY of 50.2% and EQE of 13.2% in POPLEDs. The EQE of this work is one of the highest EQE values reported in heavy metal-free phosphorescent OLEDs.
