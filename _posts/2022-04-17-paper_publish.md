@@ -16,9 +16,7 @@ Cho Long Kim+, Jae-Min Kim+, HoJin Jang+, Dong Ryun Lee, and Jun Yeob Lee*
 
 +Equallly contributed
 
-
-
-![](https://github.com/jmkim52/lab/blob/master/assets/images/post/2022-04-17.jpeg)
+![](assets\images\post\2022-04-17.jpeg)
 
 **Abstract**
 
